@@ -7,7 +7,7 @@ https://gist.githubusercontent.com/caterinaponti/08485044a1ba5b5c93000d1875ecacb
 
 The dataset comes from the Women in Data Science 2024 Datathon Challgenge launched in 2024: https://www.kaggle.com/competitions/widsdatathon2024-challenge2/data.
 
-Dependencies
+**Dependencies**
 
 To run the analysis, you will need the following Python packages:
 
