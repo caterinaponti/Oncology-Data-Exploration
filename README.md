@@ -16,6 +16,7 @@ To run the analysis, you will need the following Python packages:
 - `matplotlib`: For plotting graphs.
 - `scipy`: For statistical functions.
 
+
 **Code Overview**
 
 **Regression Analysis**
@@ -45,11 +46,11 @@ A k-nearest neighbor classification model is built to predict whether a patient 
 
 **Key Functions**
 
-`correlation`: Returns the correlation coefficient between two variables.
-`slope`: Computes the slope of the regression line.
-`intercept`: Calculates the intercept of the regression line.
-`fit`: Generates the regression line for given data.
-`scatter_fit`: Visualizes the scatter plot and the regression line.
-`predict_health`, `predict_income`, `predict_unemployement`: Functions for making predictions based on different variables.
-`residual_plot`: Generates a residual plot for analyzing prediction errors.
-`bootstrap`: Performs bootstrap resampling to generate a distribution of slopes and computes the 95% confidence interval.
+- `correlation`: Returns the correlation coefficient between two variables.
+- `slope`: Computes the slope of the regression line.
+- `intercept`: Calculates the intercept of the regression line.
+- `fit`: Generates the regression line for given data.
+- `scatter_fit`: Visualizes the scatter plot and the regression line.
+- `predict_health`, `predict_income`, `predict_unemployement`: Functions for making predictions based on different variables.
+- `residual_plot`: Generates a residual plot for analyzing prediction errors.
+- `bootstrap`: Performs bootstrap resampling to generate a distribution of slopes and computes the 95% confidence interval.
