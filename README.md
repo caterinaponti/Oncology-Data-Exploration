@@ -11,10 +11,10 @@ The dataset comes from the Women in Data Science 2024 Datathon Challgenge launch
 
 To run the analysis, you will need the following Python packages:
 
-`datascience`: A package that provides simple and efficient tools for exploratory data analysis. It is used widely in UC Berkeley's data science course (Computational and Inferential Thinking).
-`numpy`: For numerical computations.
-`matplotlib`: For plotting graphs.
-`scipy`: For statistical functions.
+- `datascience`: A package that provides simple and efficient tools for exploratory data analysis. It is used widely in UC Berkeley's data science course (Computational and Inferential Thinking).
+- `numpy`: For numerical computations.
+- `matplotlib`: For plotting graphs.
+- `scipy`: For statistical functions.
 
 **Code Overview**
 
